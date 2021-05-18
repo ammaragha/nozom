@@ -1,7 +1,7 @@
 # Simple Crud with Laravel
 
 ### 1st step : 
-    Clone into ur <strong>/htdocs </strong> file
+    Clone into ur /htdocs  file
 ### 2nd step : run this for initialize Database 
     php artisan migrate
 ### 3rd step :  run project (into local server)
