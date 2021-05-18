@@ -3,6 +3,13 @@
 ### 1st step : 
     Clone into ur <strong>/htdocs </strong> file
 ### 2nd step : run this for initialize Database 
-    <p><code>There is a literal backtick (`) here.</code></p>
+    php artisan migrate
+### 3rd step :  run project (into local server)
+    php artisan serve
+=================================================
+admin account :
+    > email : admin@admin.com
+    > password : admin
+    
 
 
