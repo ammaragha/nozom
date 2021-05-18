@@ -13,5 +13,6 @@
     > email : admin@admin.com
     > password : admin
     
-
-
+-------------------------------------------------------------
+#### tips
+    if u wanna change admin account you can write [ admin ] into search dialog
