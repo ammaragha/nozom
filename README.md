@@ -4,9 +4,9 @@
     *  Clone into ur /htdocs  file
     * create empty database in phpmyadmin
     * change [ DB_DATABASE= ] to your database name into [.env] file
-### 2nd step : run this for initialize Database 
-    > php artisan migrate
-### 3rd step :  run project (into local server)
+### 2nd step : run this command for initialize Database 
+    php artisan migrate
+### 3rd step : this command to run project (into local server)
     php artisan serve
 ------------------------------------------------------------
 #### admin account : 
