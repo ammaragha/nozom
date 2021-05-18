@@ -6,8 +6,8 @@
     php artisan migrate
 ### 3rd step :  run project (into local server)
     php artisan serve
-=================================================
-####admin account : 
+------------------------------------------------------------
+#### admin account : 
     > email : admin@admin.com
     > password : admin
     
