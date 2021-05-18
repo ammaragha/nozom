@@ -1,9 +1,11 @@
 # Simple Crud with Laravel
 
 ### 1st step : 
-    Clone into ur /htdocs  file
+    *  Clone into ur /htdocs  file
+    * create empty database in phpmyadmin
+    * change [ DB_DATABASE= ] to your database name into [.env] file
 ### 2nd step : run this for initialize Database 
-    php artisan migrate
+    > php artisan migrate
 ### 3rd step :  run project (into local server)
     php artisan serve
 ------------------------------------------------------------
